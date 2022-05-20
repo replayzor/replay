@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @replayzor
-- 👀 I’m interested in learning JavaScript
+- 👋 Hi, I’m Ionut Oltean
+- 👀 I’m interested in learning React JS
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything that i can do :)
 - 📫 How to reach me @replayzor ig
